@@ -4,6 +4,7 @@ public class Variable {
 
 	public static void main(String[] args) 
 	{
+		// some comment
 		boolean a = true;
 		System.out.println(a);
 		char b =  'M';
